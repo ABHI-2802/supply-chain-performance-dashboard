@@ -154,7 +154,7 @@ Summary pivot tables for:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ABHI-2802/supply-chain-analytics.git
+   git clone https://github.com/ABHI-2802/supply-chain-performance-dashboard.git
    ```
 
 2. **Explore the data** — Open `data/Supply_Chain_Analysis.xlsx` in Excel to see the full 6-sheet workflow
